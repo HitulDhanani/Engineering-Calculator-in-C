@@ -1,0 +1,27 @@
+# Executables & Binaries
+*.exe
+*.out
+*.app
+bin/
+obj/
+
+# Object files & Libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Editor / IDE metadata
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
+*.cbp
+
+# OS generated files
+.DS_Store
+Thumbs.db
